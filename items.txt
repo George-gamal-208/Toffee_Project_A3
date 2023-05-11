@@ -1,0 +1,5 @@
+1|chocolatecake|bakery|image1|decription1|sweets|100|status1|10|unit1|50|
+2|donutes|bakery|image2|decription2|sweets|80|status2|10|unit2|55|
+3|chocolatemacaron|bakery|image3|decription3|sweets|90|status3|10|unit3|40|
+4|whitechocolate|sweets|image4|decription4|sweets|100|status4|10|unit4|50|
+5|ottencandy|sweets|image5|decription5|sweets|120|status5|10|unit5|70|

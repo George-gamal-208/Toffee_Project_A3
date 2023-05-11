@@ -1,0 +1,7 @@
+1|454445|shoubra|0124454754|10/5/2023|donutes|80|
+1|21212|shoubra|01245452121|10/5/2023|chocolatemacaron|chocolatemacaron|180|
+1|ayman44|shoubra|0126542321|10/5/2023|whitechocolate|whitechocolate|200|
+1|john47jo|shoubra|012454232|10/5/2023|chocolatemacaron|chocolatemacaron|chocolatemacaron|270|
+1|454445|shoubra|0126543254|10/5/2023|ottencandy|ottencandy|whitechocolate|whitechocolate|440|
+1|454445|shoubra|0125458754|10/5/2023|ottencandy|ottencandy|whitechocolate|whitechocolate|whitechocolate|chocolatemacaron|630|
+1|454445|shoubra|012545421|10/5/2023|ottencandy|ottencandy|whitechocolate|whitechocolate|440|
